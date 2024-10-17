@@ -169,7 +169,7 @@ int tush_cd(char** args)
 int tush_help(char** args)
 {
   int i;
-  printf("TUSH: The Udhani Shell\n");
+  printf("TUSH\n");
   printf("Type program names and arguments, and hit enter.\n");
   printf("The following are built in:\n");
   
